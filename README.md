@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Alex (he/him), studying web development with [__Founders and Coders__](https://github.com/foundersandcoders)! 
+
+I'm currently working on various projects as part of FAC's course, using mostly HTML, CSS and JS. 
+
+I'm interested in accessible and multilingual design. 
+
+I'm not to be confused with Lascelles Abercrombie, minor poet and theorist of the early twentieth century, whose name I used for this account. 
+
+
 <!--
 **lascellesabercrombie/lascellesabercrombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
