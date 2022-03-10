@@ -20,10 +20,10 @@ I'm Alex (he/him), studying web development with [__Founders and Coders__](https
 
 ### What I'm Working On
 
- - **Note-Taking App ([repo](https://github.com/lascellesabercrombie/fac-workshop-tdd-array-methods) | deployment)**
+ - **Note-Taking App ([repo](https://github.com/lascellesabercrombie/testing-project) | [deployment](https://lascellesabercrombie.github.io/testing-project/)**
     - collaboration with [George](https://github.com/glombort)
     - a fully tested app that allows the user to add, check, delete and filter their notes
-    - status: just begun
+    - status: in progress
     
  - **Home Traveller ([repo](https://github.com/alternadiva/Home-Traveller-Project) | [deployment](https://alternadiva.github.io/Home-Traveller-Project/))**
     - collaboration with [Petra](https://github.com/alternadiva) and [Sonia](https://github.com/sonianb)
