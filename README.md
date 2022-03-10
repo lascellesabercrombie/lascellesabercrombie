@@ -20,7 +20,7 @@ I'm Alex (he/him), studying web development with [__Founders and Coders__](https
 
 ### What I'm Working On
 
- - **Note-Taking App ([repo](https://github.com/lascellesabercrombie/testing-project) | [deployment](https://lascellesabercrombie.github.io/testing-project/)**
+ - **Note-Taking App ([repo](https://github.com/lascellesabercrombie/testing-project) | [deployment](https://lascellesabercrombie.github.io/testing-project/))**
     - collaboration with [George](https://github.com/glombort)
     - a fully tested app that allows the user to add, check, delete and filter their notes
     - status: in progress
