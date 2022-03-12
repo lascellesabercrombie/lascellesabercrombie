@@ -23,7 +23,7 @@ I'm Alex (he/him), studying web development with [__Founders and Coders__](https
  - **Note-Taking App ([repo](https://github.com/lascellesabercrombie/testing-project) | [deployment](https://lascellesabercrombie.github.io/testing-project/))**
     - collaboration with [George](https://github.com/glombort)
     - a fully tested app that allows the user to add, check, delete and filter their notes
-    - status: in progress
+    - status: in working order
     
  - **Home Traveller ([repo](https://github.com/alternadiva/Home-Traveller-Project) | [deployment](https://alternadiva.github.io/Home-Traveller-Project/))**
     - collaboration with [Petra](https://github.com/alternadiva) and [Sonia](https://github.com/sonianb)
@@ -51,3 +51,8 @@ I'm Alex (he/him), studying web development with [__Founders and Coders__](https
     - includes a JS feature: a button that changes the content and layout of the page as the user toggles between English and Yiddish versions of the page
     - takeaway: really fun experimenting with what designing for a right-to-left language might mean 
     - status: in working order
+
+- **Notebook Transcription ([repo](https://github.com/lascellesabercrombie/eighty-flowers))**
+    - transcriptions using LaTeX of the notebooks of the poet Louis Zukofsky
+    - takeaway: my route into coding! the excitement at what became possible when one moved away from WYSIWYG word processors has done a lot to inspire my curiosity to know more about the possibilities of other programming languages.  
+    - status: in progress
